@@ -109,4 +109,6 @@ Of course, this file was created by GEMINI, but the formatting was done by me be
 
 ## Final Note
 
-Essentially, the AI acted as a pair programmer and a knowledgeable mentor, helping me work through the codebase efficiently and ensuring the final result was high quality. However, I made sure to thoroughly understand the codebase myself—how each function operates, how to approach and solve problems, and which parts of the code need to be rectified. I believe this is an effective way of learning, and I’m confident that it will strengthen my coding and debugging skills even further in the future.
+- Essentially, the AI acted as a pair programmer and a knowledgeable mentor, helping me work through the codebase efficiently and ensuring the final result was high quality. However, I made sure to thoroughly understand the codebase myself—how each function operates, how to approach and solve problems, and which parts of the code need to be rectified. I believe this is an effective way of learning, and I’m confident that it will strengthen my coding and debugging skills even further in the future.
+  
+- I’ve completed the core requirements, and I’ll continue to make thoughtful improvements if any new ideas come to mind before the deadline.
