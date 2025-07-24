@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+
+# Environment
+.env
+venv/
+
+# Tooling Caches
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
