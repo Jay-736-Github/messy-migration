@@ -91,6 +91,13 @@ The code was split into two files for better organization. `app.py` now exclusiv
 - I created a full test file that checks every single API endpoint for both success and failure cases.
 - This proves that the refactored code works correctly and is reliable.
 
+### Any assumptions or trade-offs
+#### Assumption : 
+I assumed the database schema didn’t need any changes — like adding new fields or modifying table structure. The main goal was to clean up and secure the existing application code, not redesign the data model.
+
+#### Trade-off :
+I chose to open a fresh database connection for every operation. It’s not the most optimized approach for large-scale apps, but for this small project, it keeps things simple and avoids issues like shared connections or locks. In real-world high-traffic systems, I’d use a proper connection pool — but here, clarity and safety felt more important than squeezing out extra performance.
+
 ## AI Usage
 
 For this assignment, I have used GEMINI as a collaborative tool and guide. Here is how it helped:
